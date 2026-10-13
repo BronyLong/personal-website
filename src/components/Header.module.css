@@ -1,0 +1,49 @@
+.header {
+    font-family: "Roboto Mono", monospace;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: var(--header-height);
+}
+
+.header_content {
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.left_part {
+    display: flex;
+    gap: 50px;
+}
+
+.header_menu {
+    display: flex;
+    gap: 30px;
+}
+
+.header_menu_link {
+    font-size: var(--font-size-small);
+    display: block;
+    color: var(--color-muted);
+}
+
+.header_menu_number {
+    font-size: var(--font-size-small);
+}
+
+.logo {
+    font-weight: bold;
+    font-size: var(--font-size-small);
+}
+
+.header_content,
+.left_part,
+.header_menu {
+    align-items: center;
+}
+
+.right_part_status {
+    font-size: var(--font-size-small);
+}
