@@ -12,7 +12,7 @@ export default function Hero() {
                             <p className="small muted font-mono">petrov.egor / frontend / 2026</p>
                         </div>
                         <div className={styles.hero_text}>
-                            <h1 className={`${styles.hero_title} font-inter regular`}>
+                            <h1 className="font-inter regular title">
                                 I BUILD<br />
                                 INTERFACES<br />
                                 FOR THE WEB.

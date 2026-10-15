@@ -36,10 +36,6 @@
     margin-top: 16px;
 }
 
-.hero_title {
-    line-height: 1.05;
-}
-
 .hero_buttons {
     margin-top: auto;
     display: flex;
