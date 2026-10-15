@@ -1,5 +1,9 @@
 :root{
     --color-background: #F3F0EB;
+
+    --color-white: #FFFFFF;
+
     --color-text: #090909;
-    --color-muted: #343434;
+    --color-caption: #343434;
+    --color-muted: #818181;
 }

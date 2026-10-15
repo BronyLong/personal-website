@@ -1,0 +1,18 @@
+.btn {
+    padding: 10px;
+}
+
+.btn-wide {
+    display: inline-block;
+
+    padding: 10px 24px;
+}
+
+.btn-outline {
+    border: 1px solid var(--color-text);
+}
+
+.btn-solid {
+    color: var(--color-white);
+    background-color: var(--color-text);
+}
