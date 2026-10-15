@@ -1,0 +1,8 @@
+.divisor_content {
+    position: relative;
+    height: var(--divisor-height);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-top: 1.5px solid rgb(9 9 9 / 18%);
+}
